@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(240, 173, 5);
+}
+.container{
+    box-shadow: 5px 5px black;
+    margin: auto;
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+    width: 30vw;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+}
+.container:hover{
+    box-shadow: 10px 10px black;
+}
+.img1 img{
+    border-radius: 15px;
+    margin: 24px;
+    width: 300px;
+}
+.p1{
+    margin-left: 24px;
+}
+.p1 h4{
+    display:inline;
+    padding: 10px;
+    background-color: rgb(255, 183, 2);
+}
+.p2{
+    margin: 24px;
+}
+.p2 h2:hover{
+    color: rgb(248, 178, 0);
+}
+.img2 img{
+    display: inline;
+    margin-left: 24px;
+    width: 40px;
+    height: 40px;
+}
+.p3 {
+    margin-left: 20%;
+    margin-top: -35px;
+    font-style:bold;
+}
+#par{
+    tab-size: 16px;
+}
