@@ -8,14 +8,14 @@ body{
     background-color: rgb(255, 255, 255);
     width: 30vw;
     border: 2px solid rgb(0, 0, 0);
-    border-radius: 15px;
+    border-radius: 19px;
 }
 .container:hover{
     box-shadow: 10px 10px black;
 }
 .img1 img{
     border-radius: 15px;
-    margin: 24px;
+    margin: 26px;
     width: 300px;
 }
 .p1{
