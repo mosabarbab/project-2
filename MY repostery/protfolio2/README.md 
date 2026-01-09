@@ -1,0 +1,27 @@
+# Mosab Arbab Portfolio Website
+
+A modern, responsive portfolio website with **animated hero image**, dark mode, and professional features.
+
+## New Features Added
+
+### 🖼️ **Animated Hero Image Section**
+- **4 Animation Types**: Float, Pulse, Rotate, and Pause controls
+- **Floating Elements**: Animated icons around the image
+- **Glow Effects**: Dynamic glow with pulse animation
+- **Parallax Scrolling**: Image moves with scroll for depth effect
+- **Interactive Controls**: Switch between different animations
+- **Loading States**: Smooth loading with skeleton screens
+
+### 🎭 **Animation Types**
+1. **Float Animation** - Gentle up/down movement with 3D rotation
+2. **Pulse Animation** - Subtle scale pulsing with glow effects
+3. **Rotate Animation** - 3D rotation for dynamic presentation
+4. **Pause** - Stop all animations (respects user preferences)
+
+### 🚀 **Performance Optimizations**
+- Respects `prefers-reduced-motion` user preferences
+- Optimized image loading with lazy loading
+- RequestAnimationFrame for smooth animations
+- Will-change hints for browser optimization
+
+## File Structure
